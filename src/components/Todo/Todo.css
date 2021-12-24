@@ -1,0 +1,42 @@
+
+.edit {
+    text-decoration:  none;
+    color: black;
+}
+
+.edit:hover {
+    color: black;
+}
+
+.statusGreen {
+    color: green;
+    font-size: 20px;
+}
+
+.StatusRed {
+    color: red;
+    font-size: 20px;
+}
+
+#undo {
+    color: white;
+    background-color: rgb(55, 0, 60);
+}
+
+#done:hover {
+    background-color: rgb(8, 167, 8);
+}
+
+#undo:hover {
+    background-color: rgb(120, 0, 130) ;
+}
+
+.complete {
+    text-decoration: line-through 2px solid red;
+    font-size: 20px;
+}
+
+.incomplete {
+    text-decoration: none;
+    font-size: 20px;
+}
